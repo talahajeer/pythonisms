@@ -1,4 +1,4 @@
-from pythonism import *
+from pythonism.pythonism import *
 import pytest
 def test_eq(test):
     list1 , list2 = test
